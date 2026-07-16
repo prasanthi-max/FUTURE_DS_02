@@ -49,3 +49,7 @@ This project analyzes customer churn using the IBM Telco Customer Churn dataset.
 
 ## Conclusion
 Customer churn is mainly influenced by contract type, internet service, payment method, and customer tenure. Businesses can reduce churn by encouraging long-term contracts, improving service quality, and offering better customer support.
+
+## Report on Task 2
+Click the below link to view the report
+https://prasanthi-max.github.io/FUTURE_DS_02/Task_2_Customer_Retention_And_Churn_%20Analysis.pdf
